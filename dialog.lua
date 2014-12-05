@@ -37,6 +37,7 @@ function dialog:SetText(text)
 	self.scrollFrame.editBox:SetText(text)
 	self:Show()
 	self.scrollFrame.editBox:SetFocus()	
+	self.scrollFrame.editBox:HighlightText()
 end
 
 ns.dialog = dialog

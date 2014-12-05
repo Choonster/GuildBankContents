@@ -2,7 +2,7 @@
 ## Interface: 60000
 ## Author: Choonster
 ## Notes: Displays a summary of your guild bank contents
-## Version: 1.0
+## Version: 1.1
 ## LoadOnDemand: 1
 ## LoadWith: Blizzard_GuildBankUI
 
