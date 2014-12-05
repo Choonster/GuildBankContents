@@ -1,0 +1,11 @@
+## Title: Guild Bank Contents
+## Interface: 60000
+## Author: Choonster
+## Notes: Displays a summary of your guild bank contents
+## Version: 1.0
+## LoadOnDemand: 1
+## LoadWith: Blizzard_GuildBankUI
+
+
+dialog.lua
+core.lua
